@@ -234,7 +234,7 @@ Page({
     const versionInfo = wx.getAccountInfoSync();
     const { version, envVersion = __wxConfig } = versionInfo.miniProgram;
     this.setData({
-      versionNo: envVersion === 'release' ? version : envVersion,
+      versionNo: envVersion === 'release' ? version : version,
     });
   },
 });

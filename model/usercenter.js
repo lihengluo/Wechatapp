@@ -1,7 +1,7 @@
 const userInfo = {
   avatarUrl:
-    'https://we-retail-static-1300977798.cos.ap-guangzhou.myqcloud.com/retail-ui/components-exp/avatar/avatar-1.jpg',
-  nickName: 'TDesign 🌟',
+    'https://i.postimg.cc/7hLDthHL/images.jpg',
+  nickName: '无暇不出',
   phoneNumber: '13438358888',
   gender: 2,
 };
