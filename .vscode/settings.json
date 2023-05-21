@@ -31,5 +31,8 @@
     "wrap_attributes_indent_size": 2
   },
   "editor.tabSize": 2,
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "[wxml]": {
+    "editor.defaultFormatter": "wechat.miniprogram.wxml-language-features"
+  }
 }
