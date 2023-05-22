@@ -44,14 +44,12 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '腾讯极光盒子4智能网络电视机顶盒6K千兆网络机顶盒4K高分辨率',
+              goodsName: '腾讯极光盒子4智能网络电视机顶盒6K千兆网络机顶盒4K高分辨率',
               specifications: [
                 { specTitle: '颜色', specValue: '贵族青' },
                 { specTitle: '类型', specValue: '尊享礼盒装' },
               ],
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3b.png',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3b.png',
               originPrice: '0',
               actualPrice: '9999',
               buyQuantity: 1,
@@ -135,10 +133,10 @@ export function genOrders(params) {
           orderSubType: 0,
           orderStatus: 10,
           orderSubStatus: null,
-          totalAmount: '76600',
-          goodsAmount: '76600',
-          goodsAmountApp: '76600',
-          paymentAmount: '36800',
+          totalAmount: '2490',
+          goodsAmount: '2490',
+          goodsAmountApp: '2490',
+          paymentAmount: '2290',
           freightFee: '0',
           packageFee: '0',
           discountAmount: '39800',
@@ -160,79 +158,19 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
-              originPrice: '40000',
-              actualPrice: '29800',
+              goodsName: '【无瑕不出】《黄鹤楼送孟浩然之广陵》白色直边硅胶手机壳',
+              goodsPictureUrl: 'https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg',
+              originPrice: '4000',
+              actualPrice: '2490',
               specifications: [
-                { specTitle: '颜色', specValue: '米色荷叶边' },
-                { specTitle: '尺码', specValue: 'S' },
+                { specTitle: '主题', specValue: '楼小舟' },
+                { specTitle: '适配手机型号', specValue: '华为 P60' },
               ],
               buyQuantity: 1,
               itemTotalAmount: '29800',
               itemDiscountAmount: '19813',
               itemPaymentAmount: '9987',
               goodsPaymentPrice: '9987',
-              tagPrice: null,
-              tagText: null,
-              outCode: null,
-              labelVOs: null,
-              buttonVOs: null,
-            },
-            {
-              id: '132381537407645952',
-              orderNo: null,
-              spuId: '7',
-              skuId: '135691633',
-              roomId: null,
-              goodsMainType: 0,
-              goodsViceType: 0,
-              goodsName:
-                '不锈钢刀叉勺套装家用西餐餐具ins简约耐用不锈钢金色银色可选',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/gh-2b.png',
-              originPrice: '29900',
-              actualPrice: '19900',
-              specifications: [
-                { specTitle: '颜色', specValue: '奶黄色' },
-                { specTitle: '类型', specValue: '三件套' },
-              ],
-              buyQuantity: 1,
-              itemTotalAmount: '19900',
-              itemDiscountAmount: '13230',
-              itemPaymentAmount: '6670',
-              goodsPaymentPrice: '6670',
-              tagPrice: null,
-              tagText: null,
-              outCode: null,
-              labelVOs: null,
-              buttonVOs: null,
-            },
-            {
-              id: '132381537407646208',
-              orderNo: null,
-              spuId: '1',
-              skuId: '135691631',
-              roomId: null,
-              goodsMainType: 0,
-              goodsViceType: 0,
-              goodsName:
-                '纯色纯棉休闲圆领短袖T恤纯白亲肤厚柔软细腻面料纯白短袖套头T恤',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-08a.png',
-              originPrice: '31900',
-              actualPrice: '26900',
-              specifications: [
-                { specTitle: '颜色', specValue: '白色' },
-                { specTitle: '尺码', specValue: 'S' },
-              ],
-              buyQuantity: 1,
-              itemTotalAmount: '26900',
-              itemDiscountAmount: '6757',
-              itemPaymentAmount: '20143',
-              goodsPaymentPrice: '20143',
               tagPrice: null,
               tagText: null,
               outCode: null,
@@ -270,7 +208,7 @@ export function genOrders(params) {
           },
           paymentVO: {
             payStatus: 1,
-            amount: '36800',
+            amount: '2290',
             currency: null,
             payType: null,
             payWay: null,
@@ -342,10 +280,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '迷你便携高颜值蓝牙无线耳机立体声只能触控式操作简约立体声耳机',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-2a.png',
+              goodsName: '迷你便携高颜值蓝牙无线耳机立体声只能触控式操作简约立体声耳机',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-2a.png',
               originPrice: '15900',
               actualPrice: '8900',
               specifications: [
@@ -371,10 +307,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
+              goodsName: '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
               originPrice: '40000',
               actualPrice: '29800',
               specifications: [
@@ -400,10 +334,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '腾讯极光盒子4智能网络电视机顶盒6K千兆网络机顶盒4K高分辨率',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3a.png',
+              goodsName: '腾讯极光盒子4智能网络电视机顶盒6K千兆网络机顶盒4K高分辨率',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3a.png',
               originPrice: '16900',
               actualPrice: '9900',
               specifications: [
@@ -429,10 +361,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '带帽午休毯虎年款多功能加厚加大加绒简约多功能午休毯连帽披肩',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/muy-3a.png',
+              goodsName: '带帽午休毯虎年款多功能加厚加大加绒简约多功能午休毯连帽披肩',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/muy-3a.png',
               originPrice: '39900',
               actualPrice: '29900',
               specifications: [
@@ -459,8 +389,7 @@ export function genOrders(params) {
               goodsMainType: 0,
               goodsViceType: 0,
               goodsName: '运动连帽拉链卫衣休闲开衫长袖多色运动细绒面料运动上衣',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-17a.png',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-17a.png',
               originPrice: '39900',
               actualPrice: '25900',
               specifications: [
@@ -576,10 +505,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
+              goodsName: '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
               originPrice: '40000',
               actualPrice: '29800',
               specifications: [
@@ -689,10 +616,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '不锈钢刀叉勺套装家用西餐餐具ins简约耐用不锈钢金色银色可选',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/gh-2b.png',
+              goodsName: '不锈钢刀叉勺套装家用西餐餐具ins简约耐用不锈钢金色银色可选',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/gh-2b.png',
               originPrice: '29900',
               actualPrice: '19900',
               specifications: [
@@ -802,10 +727,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '纯色纯棉休闲圆领短袖T恤纯白亲肤厚柔软细腻面料纯白短袖套头T恤',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-08b.png',
+              goodsName: '纯色纯棉休闲圆领短袖T恤纯白亲肤厚柔软细腻面料纯白短袖套头T恤',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-08b.png',
               originPrice: '31900',
               actualPrice: '26900',
               specifications: [
@@ -933,10 +856,8 @@ export function genOrders(params) {
               roomId: null,
               goodsMainType: 0,
               goodsViceType: 0,
-              goodsName:
-                '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
-              goodsPictureUrl:
-                'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
+              goodsName: '白色短袖连衣裙荷叶边裙摆宽松韩版休闲纯白清爽优雅连衣裙',
+              goodsPictureUrl: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/nz-09a.png',
               originPrice: '40000',
               actualPrice: '29800',
               specifications: [
@@ -1021,17 +942,12 @@ export function genOrders(params) {
   const { pageNum, pageSize, orderStatus } = params.parameter;
   // 实现筛选
   if (orderStatus > -1) {
-    resp.data.orders = resp.data.orders.filter(
-      (order) => order.orderStatus === orderStatus,
-    );
+    resp.data.orders = resp.data.orders.filter((order) => order.orderStatus === orderStatus);
   }
   // 实现分页
   resp.data.pageNum = pageNum;
   resp.data.pageSize = pageSize;
-  resp.data.orders = resp.data.orders.slice(
-    (pageNum - 1) * pageSize,
-    pageNum * pageSize,
-  );
+  resp.data.orders = resp.data.orders.slice((pageNum - 1) * pageSize, pageNum * pageSize);
   return resp;
 }
 
