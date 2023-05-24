@@ -9,11 +9,8 @@ const allGoods = [
     storeId: '1000',
     spuId: '0',
     title: '【无瑕不出】《黄鹤楼送孟浩然之广陵》白色直边硅胶手机壳',
-    primaryImage: 'https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg',
-    images: [
-      'https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg',
-      'https://i.postimg.cc/2ytrBY4X/Wechat-IMG1461.jpg',
-    ],
+    primaryImage: 'https://i.postimg.cc/wBMwgRRn/Wechat-IMG162.jpg',
+    images: ['https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg', 'https://i.postimg.cc/2ytrBY4X/Wechat-IMG1461.jpg'],
     video: null,
     available: 1,
     minSalePrice: 2490,
@@ -23,11 +20,7 @@ const allGoods = [
     spuStockQuantity: 510,
     soldNum: 1032,
     isPutOnSale: 1,
-    categoryIds: [
-      '127880527393854975',
-      '127880527393854976',
-      '127880537778953984',
-    ],
+    categoryIds: ['127880527393854975', '127880527393854976', '127880537778953984'],
     specList: [
       {
         specId: '10011',
@@ -48,7 +41,6 @@ const allGoods = [
             image: null,
           },
         ],
-        
       },
       {
         specId: '10013',
@@ -225,10 +217,7 @@ const allGoods = [
         text: '限购5件',
       },
     ],
-    desc: [
-      'https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg',
-      'https://i.postimg.cc/2ytrBY4X/Wechat-IMG1461.jpg',
-    ],
+    desc: ['https://i.postimg.cc/LXVpv22s/Wechat-IMG1451.jpg', 'https://i.postimg.cc/2ytrBY4X/Wechat-IMG1461.jpg'],
     etitle: '',
   },
   //第二件商品
@@ -237,16 +226,13 @@ const allGoods = [
     storeId: '1000',
     spuId: '135686633',
     title: '【无瑕不出】7cm亚克力夹层钥匙扣',
-    primaryImage: 'https://i.postimg.cc/1X6tr4JN/Wechat-IMG1452.jpg',
+    primaryImage: 'https://i.postimg.cc/RFzJGjmG/Wechat-IMG161.jpg',
     minSalePrice: '1590',
     minLinePrice: '1590',
     maxSalePrice: '3000',
     maxLinePrice: '3000',
     isSoldOut: false,
-    images: [
-      'https://i.postimg.cc/1X6tr4JN/Wechat-IMG1452.jpg',
-      'https://i.postimg.cc/66R5S2f8/Wechat-IMG1460.png',
-    ],
+    images: ['https://i.postimg.cc/1X6tr4JN/Wechat-IMG1452.jpg', 'https://i.postimg.cc/66R5S2f8/Wechat-IMG1460.png'],
     groupIdList: ['15029', '14023'],
     spuTagList: [
       {
@@ -427,20 +413,14 @@ const allGoods = [
     promotionList: null,
     minProfitPrice: null,
     etitle: '',
-    desc: [
-      'https://i.postimg.cc/1X6tr4JN/Wechat-IMG1452.jpg',
-      'https://i.postimg.cc/66R5S2f8/Wechat-IMG1460.png',
-    ],
+    desc: ['https://i.postimg.cc/1X6tr4JN/Wechat-IMG1452.jpg', 'https://i.postimg.cc/66R5S2f8/Wechat-IMG1460.png'],
   },
   {
     saasId: '88888888',
     storeId: '1000',
     spuId: '135691628',
     title: '【无暇不出】黄鹤楼“楼小舟”主题公仔',
-    images: [
-      'https://i.postimg.cc/1RG4XCYm/Wechat-IMG1469.jpg',
-      'https://i.postimg.cc/c1FyFfv7/Wechat-IMG1468.png',
-    ],
+    images: ['https://i.postimg.cc/1RG4XCYm/Wechat-IMG1469.jpg', 'https://i.postimg.cc/c1FyFfv7/Wechat-IMG1468.png'],
     primaryImage: 'https://i.postimg.cc/1RG4XCYm/Wechat-IMG1469.jpg',
     minSalePrice: '5500',
     minLinePrice: '5500',
