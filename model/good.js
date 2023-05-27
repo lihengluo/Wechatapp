@@ -655,10 +655,10 @@ const allGoods = [
     storeId: '1000',
     spuId: '135686623',
     title: '【无暇不出】黄鹤楼主题盲盒',
-    primaryImage: 'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3a.png',
+    primaryImage: 'https://i.postimg.cc/tgqVrhHL/Wechat-IMG5.jpg',
     images: [
-      'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3a.png',
-      'https://cdn-we-retail.ym.tencent.com/tsr/goods/dz-3b.png',
+      'https://i.postimg.cc/tgqVrhHL/Wechat-IMG5.jpg',
+      'https://i.postimg.cc/3Nv1FPM8/Wechat-IMG9.jpg',
     ],
     minSalePrice: '9900',
     minLinePrice: '16900',

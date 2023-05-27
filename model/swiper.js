@@ -26,11 +26,10 @@
 // ];
 
 const images = [
-  'https://cdn-we-retail.ym.tencent.com/tsr/home/v2/banner2.png',
-  'https://cdn-we-retail.ym.tencent.com/tsr/home/v2/banner3.png',
-  'https://cdn-we-retail.ym.tencent.com/tsr/home/v2/banner4.png',
-  'https://cdn-we-retail.ym.tencent.com/tsr/home/v2/banner5.png',
-  'https://cdn-we-retail.ym.tencent.com/tsr/home/v2/banner6.png',
+  'https://i.postimg.cc/wBMwgRRn/Wechat-IMG162.jpg',
+  'https://i.postimg.cc/RFzJGjmG/Wechat-IMG161.jpg',
+  'https://i.postimg.cc/1RG4XCYm/Wechat-IMG1469.jpg',
+  'https://i.postimg.cc/tgqVrhHL/Wechat-IMG5.jpg',
 ];
 
 export function genSwiperImageList() {
